@@ -28,7 +28,7 @@ cp .env.local.example .env.local
 Inside of your newly created `.env.local` file, provide values for the variable. These variables can be found in the [project settings UI](https://hygraph.com/docs/guides/concepts/apis#working-with-apis).
 
 ```env
-HYGRAPH_ENDPOINT=
+NEXT_PUBLIC_HYGRAPH_ENDPOINT=
 ```
 
 3. **Start building!**
